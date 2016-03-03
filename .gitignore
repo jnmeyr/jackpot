@@ -1,0 +1,13 @@
+# elm
+elm/elm-stuff/
+elm/elm.js
+elm/index.html
+
+# erlang
+erlang/jackpot.beam
+
+# haskell
+haskell/Main
+haskell/Main.hi
+haskell/Main.o
+
